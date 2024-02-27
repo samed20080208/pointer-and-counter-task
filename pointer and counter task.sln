@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pointer and counter task", "pointer and counter task\pointer and counter task.csproj", "{237B6F4E-27CB-48E6-AF11-C85D6366867D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237B6F4E-27CB-48E6-AF11-C85D6366867D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237B6F4E-27CB-48E6-AF11-C85D6366867D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237B6F4E-27CB-48E6-AF11-C85D6366867D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237B6F4E-27CB-48E6-AF11-C85D6366867D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FC4613-656E-4F67-9AB1-65B266C19A0A}
+	EndGlobalSection
+EndGlobal
